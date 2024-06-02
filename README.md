@@ -8,7 +8,6 @@ This repository contains a collection of data science presentations. Each projec
 
 - [HTML Presentation](https://uruc.github.io/Data-Science/Bad%20Passwords/ixt87.html#/title-slide)
 - [Source Code (QMD)](Bad%20Passwords/ixt87.qmd)
-- [PDF Presentation](Bad%20Passwords/ixt87.pdf)
 
 ## How to View
 
