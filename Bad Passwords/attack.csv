@@ -1,0 +1,8 @@
+﻿Attack,Also known as ,Frequency,Difficulty Mechanism,User assists attacker by ,Does your password matter?
+Credential Stuffing,"Breach replay, list cleaning",Very high,Very easy: Purchase creds gathered from breaches,Being human,No – attacker has exact password
+Phishing,"Man-in-the-middle, credential interception",Very high,Easy: Send emails that promise entertainment or aid,Being human,No – user gives the password to the attacker
+Keystroke logging,"Malware, sniffing",Low,Medium: Malware records and transmits usernames,"Clicking links, running as administrator, not updating software",No – malware intercepts exactly what is typed
+Local discovery,"Dumpster diving, physical recon, network scanning",Low,Difficult: Search user’s office or journal for info,Writing passwords down,No – exact password discovered
+Extortion,"Blackmail, Insider threat",Very low,Difficult: Threaten to harm or embarrass humans,Being human,No – exact password disclosed
+Password spray,"Guessing, hammering, low-and-slow",Very high,Trivial: Use common passwords on many usernames,Using common passwords like 'qwerty123',"No, unless it's a common password"
+Brute force,"Database extraction, cracking",Very low,Varies: Penetrate network and hash cracking,Not applicable,"No, unless using very simple or creative passphrases"
