@@ -1,0 +1,90 @@
+/*-- scss:defaults --*/
+
+// fonts
+@import 'https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible&display=swap';
+
+$font-family-sans-serif: "Atkinson Hyperlegible", sans-serif, 0.1em;
+$presentation-heading-color: #00589b;
+$presentation-title-slide-text-align: "left";
+$code-block-font-size: 0.6em;
+$code-color: #5f5f5f;
+$presentation-h2-font-size: 2.4em;
+$presentation-h2-font-size: 1.4em;
+$presentation-h3-font-size: 0.4em;
+$font-size-root: 0.1em;
+$font-family-monospace: 0.1em;
+
+
+// Vertical spacing between blocks of text
+$blockMargin: 6px;
+
+$heading1Size: 5.00em;
+$heading2Size: 3.11em;
+$heading3Size: 2.55em;
+$heading4Size: 2.00em;
+
+
+
+
+
+/*-- scss:rules --*/
+
+details>summary {
+  font-size: 0.7em;
+  font-weight: bold;
+}
+
+.small {
+  font-size: 0.7em;
+}
+
+.reveal .slide .in-out {
+  margin-top: 0.1em;
+  margin-bottom: 0.1em;
+  padding-top: 0.01em;
+  padding-bottom: 0.01em;
+  padding-left: 0.01em;
+  background: #E8E8E8;
+  font-family: $font-family-monospace;
+  font-size: 0.1em;
+}
+
+
+.reveal .slide .goal {
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
+  padding-top: 0.01em;
+  padding-bottom: 0.01em;
+  padding-left: 0.01em;
+  background: #ccddeb;
+}
+
+.large-code pre code {
+  font-size: 28pt;
+}
+
+.highlight {
+  background: black;
+  padding: 0.5em;
+  width: fit-content;
+}
+
+ul.space_list li { margin-bottom: -10em; }
+
+ul li { 
+  padding: -5px -5px;
+  margin-top: -10em;
+  margin-bottom: -10em;
+  line-height: 1em;
+}
+
+li {
+  padding: -5px -5px -5px;
+}
+
+li:first-child {
+  margin-bottom: -5px;
+  margin-top: -5px;
+}
+
+
