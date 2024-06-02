@@ -1,16 +1,19 @@
-### Hi there 👋
+# Data Science Presentations
 
-<!--
-**uruc/uruc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This repository contains a collection of data science presentations. Each project includes the source code (.qmd), HTML, and PDF files for the presentation.
 
-Here are some ideas to get you started:
+## Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### [Bad Passwords: A Data Science Presentation](https://uruc.github.io/Data-Science/Bad%20Passwords/ixt87.html#/title-slide)
+
+- [HTML Presentation](https://uruc.github.io/Data-Science/Bad%20Passwords/ixt87.html#/title-slide)
+- [Source Code (QMD)](Bad%20Passwords/ixt87.qmd)
+- [PDF Presentation](Bad%20Passwords/ixt87.pdf)
+
+## How to View
+
+Click on the link above to view the HTML presentation directly. The source code and PDF version are also available in the respective project directory.
+
+## Repository Structure
+
+
