@@ -2,7 +2,7 @@
 title: "Assessing Referee Impartiality: The Likelihood of Red Cards for Dark-Skin-Toned Players in Soccer"
 subtitle: "Ibrahim Uruc Tarim"
 format:
-   pdf:
+   html:
      code_folding: "hide"
 ---
 
