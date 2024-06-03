@@ -30,9 +30,9 @@ Click on the links above to view the HTML presentations directly. The source cod
 - [Source Code (RMD)](https://github.com/uruc/Data-Science/blob/main/Water%20Levels/Proportions-ixt87.Rmd)
 - [PDF Presentation](https://github.com/uruc/Data-Science/blob/main/Water%20Levels/Proportions-ixt87.pdf)
 
-### [Chennai Water Data](https://uruc.github.io/Data-Science/Water%20Levels/Chennai-Water-Data.html)
+### Chennai Water Data
 
-- [PDF Report](https://github.com/uruc/Data-Science/blob/main/Water%20Levels/Chennai-Water-Data.pdf)
+- [PDF Report](https://uruc.github.io/Data-Science/Water%20Levels/Chennai-Water-Data.pdf)
 
 
 
