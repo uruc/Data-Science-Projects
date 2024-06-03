@@ -8,29 +8,28 @@ Click on the links above to view the HTML presentations directly. The source cod
 
 ## Projects
 
-### [Bad Passwords: A Data Science Presentation](https://uruc.github.io/Data-Science/Bad%20Passwords/ixt87.html#/title-slide)
+### [Bad Passwords: A Data Science Presentation](https://github.com/uruc/Data-Science/tree/main/Bad%20Passwords)
 
 - [HTML Presentation](https://uruc.github.io/Data-Science/Bad%20Passwords/ixt87.html#/title-slide)
 - [Source Code (QMD)](https://github.com/uruc/Data-Science/blob/main/Bad%20Passwords/ixt87.qmd)
 
-### [Data Science in Cybersecurity](https://uruc.github.io/Data-Science/Data%20Science-Cybersecurity/DSCC.html)
+### [Data Science in Cybersecurity](https://github.com/uruc/Data-Science/tree/main/Data%20Science-Cybersecurity)
 
 - [HTML Presentation](https://uruc.github.io/Data-Science/Data%20Science-Cybersecurity/DSCC.html)
 - [Source Code (QMD)](https://github.com/uruc/Data-Science/blob/main/Data%20Science-Cybersecurity/DSCC.qmd)
 
-### [Referee Impartiality](https://uruc.github.io/Data-Science/Referee%20Impartiality/2308f-454-GradPres-3-ixt87-present.html)
+### [Referee Impartiality](https://github.com/uruc/Data-Science/tree/main/Referee%20Impartiality)
 
 - [HTML Presentation](https://uruc.github.io/Data-Science/Referee%20Impartiality/2308f-454-GradPres-3-ixt87-present.html)
 - [PDF Presentation](https://github.com/uruc/Data-Science/blob/main/Referee%20Impartiality/2308f-454-GradPres-3-ixt87-present.pdf)
 - [Source Code (QMD)](https://github.com/uruc/Data-Science/blob/main/Referee%20Impartiality/2308f-454-GradPres-3-ixt87-present.qmd)
 
-### [Water Levels](https://uruc.github.io/Data-Science/Water%20Levels/Proportions-ixt87.html)
+### [Water Levels](https://github.com/uruc/Data-Science/tree/main/Water%20Levels)
 
 - [HTML Presentation](https://uruc.github.io/Data-Science/Water%20Levels/Proportions-ixt87.html)
 - [Source Code (RMD)](https://github.com/uruc/Data-Science/blob/main/Water%20Levels/Proportions-ixt87.Rmd)
-- [PDF Presentation](https://github.com/uruc/Data-Science/blob/main/Water%20Levels/Proportions-ixt87.pdf)
 
-### Chennai Water Data
+### [Chennai Water Data](https://github.com/uruc/Data-Science/tree/main/Water%20Levels)
 
 - [PDF Report](https://uruc.github.io/Data-Science/Water%20Levels/Chennai-Water-Data.pdf)
 
