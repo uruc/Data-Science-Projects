@@ -8,9 +8,9 @@ Click on the links above to view the HTML presentations directly. The source cod
 
 ## Projects
 
-### [Bad Passwords: A Data Science Presentation](https://uruc.github.io/Data-Science/Bad%20Passwords/ixt87.html)
+### [Bad Passwords: A Data Science Presentation](https://uruc.github.io/Data-Science/Bad%20Passwords/ixt87.html#/title-slide)
 
-- [HTML Presentation](https://uruc.github.io/Data-Science/Bad%20Passwords/ixt87.html)
+- [HTML Presentation](https://uruc.github.io/Data-Science/Bad%20Passwords/ixt87.html#/title-slide)
 - [Source Code (QMD)](https://github.com/uruc/Data-Science/blob/main/Bad%20Passwords/ixt87.qmd)
 
 ### [Data Science in Cybersecurity](https://uruc.github.io/Data-Science/Data%20Science-Cybersecurity/DSCC.html)
@@ -24,14 +24,16 @@ Click on the links above to view the HTML presentations directly. The source cod
 - [PDF Presentation](https://github.com/uruc/Data-Science/blob/main/Referee%20Impartiality/2308f-454-GradPres-3-ixt87-present.pdf)
 - [Source Code (QMD)](https://github.com/uruc/Data-Science/blob/main/Referee%20Impartiality/2308f-454-GradPres-3-ixt87-present.qmd)
 
-### [Water Levels](https://github.com/uruc/Data-Science/tree/main/Water%20Levels)
+### [Water Levels](https://uruc.github.io/Data-Science/Water%20Levels/Proportions-ixt87.html)
 
+- [HTML Presentation](https://uruc.github.io/Data-Science/Water%20Levels/Proportions-ixt87.html)
 - [Source Code (RMD)](https://github.com/uruc/Data-Science/blob/main/Water%20Levels/Proportions-ixt87.Rmd)
 - [PDF Presentation](https://github.com/uruc/Data-Science/blob/main/Water%20Levels/Proportions-ixt87.pdf)
 
-### [Chennai Water Data](https://github.com/uruc/Data-Science/blob/main/Water%20Levels/Chennai-Water-Data.pdf)
+### [Chennai Water Data](https://uruc.github.io/Data-Science/Water%20Levels/Chennai-Water-Data.html)
 
 - [PDF Report](https://github.com/uruc/Data-Science/blob/main/Water%20Levels/Chennai-Water-Data.pdf)
+
 
 
 
