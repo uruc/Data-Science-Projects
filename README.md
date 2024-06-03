@@ -26,7 +26,7 @@ Click on the links above to view the HTML presentations directly. The source cod
 
 ### [Water Levels](https://github.com/uruc/Data-Science/tree/main/Water%20Levels)
 
-- [HTML Presentation](https://uruc.github.io/Data-Science/Water%20Levels/Proportions-ixt87.html)
+- [PDF Presentation](https://uruc.github.io/Data-Science/Water%20Levels/Proportions-ixt87.pdf)
 - [Source Code (RMD)](https://github.com/uruc/Data-Science/blob/main/Water%20Levels/Proportions-ixt87.Rmd)
 
 ### [Chennai Water Data](https://github.com/uruc/Data-Science/tree/main/Water%20Levels)
