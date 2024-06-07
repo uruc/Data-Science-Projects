@@ -8,15 +8,19 @@ Click on the links above to view the HTML presentations directly. The source cod
 
 ## Projects
 
-### [Bad Passwords: A Data Science Presentation](https://github.com/uruc/Data-Science/tree/main/Bad%20Passwords)
-
-- [HTML Presentation](https://uruc.github.io/Data-Science/Bad%20Passwords/ixt87.html#/title-slide)
-- [Source Code (QMD)](https://github.com/uruc/Data-Science/blob/main/Bad%20Passwords/ixt87.qmd)
-
 ### [Data Science in Cybersecurity](https://github.com/uruc/Data-Science/tree/main/Data%20Science-Cybersecurity)
 
 - [HTML Presentation](https://uruc.github.io/Data-Science/Data%20Science-Cybersecurity/DSCC.html)
 - [Source Code (QMD)](https://github.com/uruc/Data-Science/blob/main/Data%20Science-Cybersecurity/DSCC.qmd)
+
+### [Animated Time Series](https://github.com/uruc/Data-Science-Projects/tree/main/Animated%20Time%20Series)
+- [HTML Presentation](https://uruc.github.io/Data-Science/Animated%20Time%20Series/Multiple-Approaches.html)
+
+
+### [Bad Passwords: A Data Science Presentation](https://github.com/uruc/Data-Science/tree/main/Bad%20Passwords)
+
+- [HTML Presentation](https://uruc.github.io/Data-Science/Bad%20Passwords/ixt87.html#/title-slide)
+- [Source Code (QMD)](https://github.com/uruc/Data-Science/blob/main/Bad%20Passwords/ixt87.qmd)
 
 ### [Referee Impartiality](https://github.com/uruc/Data-Science/tree/main/Referee%20Impartiality)
 
