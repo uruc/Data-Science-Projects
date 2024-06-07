@@ -247,7 +247,7 @@ cities_long <- cities_long %>%
 
 # Animated Plot 3
 animated_plot3 <- ggplot(cities_long, aes(x = date, y = value, color = metric)) +
-  geom_line() +
+  geom_line(lwd = 1.1) +
   facet_wrap(~ city, scales = "free_y") + 
   scale_color_viridis_d(direction = 1, option = "D", name = "Metric", labels = c("Median", "Sales", "Volume")) +
   labs(title = "Sales Metrics Over Time for Selected Texas Cities",
@@ -260,10 +260,14 @@ animated_plot3 <- ggplot(cities_long, aes(x = date, y = value, color = metric)) 
         plot.title.position = "plot",
         axis.text = element_text(size = 8)) +
   transition_reveal(along = date)
+```
 
+![Sales Metrics](https://raw.githubusercontent.com/uruc/Data-Science/main/Animated%20Time%20Series/animated_plot3.gif)
+
+```{r}
 # Animated Plot 2
 animated_plot2 <- ggplot(cities_long, aes(x = date, y = value, color = metric)) +
-  geom_line() +
+  geom_line(lwd = 1.1) +
   facet_wrap(~ city) +
   scale_color_viridis_d(direction = 1, option = "D", name = "Metric", labels = c("Median", "Sales", "Volume")) +
   scale_y_continuous(trans = 'log10', labels = scales::label_comma()) +
@@ -279,18 +283,9 @@ animated_plot2 <- ggplot(cities_long, aes(x = date, y = value, color = metric)) 
         plot.title.position = "plot",
         axis.text = element_text(size = 8)) +
   transition_reveal(along = date)
-
-# Generate and Save the Animations
-anim3 <- animate(animated_plot3, end_pause = 10, renderer = gifski_renderer())
-anim2 <- animate(animated_plot2, end_pause = 10, renderer = gifski_renderer())
-
-# Save the animations as GIF files
-anim_save("animated_plot3.gif", animation = anim3)
-anim_save("animated_plot2.gif", animation = anim2)
-
-anim2
-anim3
 ```
+
+![Log Scaled](https://raw.githubusercontent.com/uruc/Data-Science/main/Animated%20Time%20Series/animated_plot2.gif)
 
 Animation adds a temporal dimension to the data, highlighting trends and changes over time in an engaging way.
 ________________________________________________________________________________
@@ -379,7 +374,7 @@ colors <- c("Ozone (ppb)" = "#440154", "Solar Radiation (lang)" = "#fde725",
 
 # Create the animated plot
 animated_plot <- ggplot(airquality_long, aes(x = Date, y = value, color = variable)) +
-  geom_line() +
+  geom_line(lwd = 1.1) +
   scale_color_manual(values = colors) + 
   facet_wrap(~ variable, scales = "free_y", ncol = 1) + 
   labs(title = "Environmental Metrics Over Time",
@@ -390,15 +385,10 @@ animated_plot <- ggplot(airquality_long, aes(x = Date, y = value, color = variab
         axis.text = element_text(size = 8),
         strip.text.x = element_text(size = 10)) + 
   transition_reveal(along = Date)
-
-# Generate and save the animation
-anim <- animate(animated_plot, end_pause = 10, renderer = gifski_renderer())
-
-# Save the animation as a GIF file
-anim_save("environmental_metrics_over_time.gif", animation = anim)
-
-anim
 ```
+
+![](https://raw.githubusercontent.com/uruc/Data-Science/main/Animated%20Time%20Series/environmental_metrics_over_time.gif)
+
 Our story about air quality shows how the environment affects ozone levels through the following plot points:
 
  - "Ozone vs. Temperature" shows higher temperatures boosting ozone.
