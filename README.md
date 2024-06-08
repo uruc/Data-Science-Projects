@@ -8,30 +8,34 @@ Click on the links above to view the HTML presentations directly. The source cod
 
 ## Projects
 
-### [Bad Passwords: A Data Science Presentation](https://github.com/uruc/Data-Science/tree/main/Bad%20Passwords)
+### [Data Science in Cybersecurity](https://github.com/uruc/Data-Science-Projects/tree/main/Data%20Science-Cybersecurity)
 
-- [HTML Presentation](https://uruc.github.io/Data-Science/Bad%20Passwords/ixt87.html#/title-slide)
-- [Source Code (QMD)](https://github.com/uruc/Data-Science/blob/main/Bad%20Passwords/ixt87.qmd)
+- [HTML Presentation](https://uruc.github.io/Data-Science-Projects/Data%20Science-Cybersecurity/DSCC.html)
+- [Source Code (QMD)](https://github.com/uruc/Data-Science-Projects/blob/main/Data%20Science-Cybersecurity/DSCC.qmd)
 
-### [Data Science in Cybersecurity](https://github.com/uruc/Data-Science/tree/main/Data%20Science-Cybersecurity)
+### [Animated Time Series](https://github.com/uruc/Data-Science-Projects/tree/main/Animated%20Time%20Series)
+- [HTML Presentation](https://uruc.github.io/Data-Science-Projects/Animated%20Time%20Series/Multiple-Approaches.html)
 
-- [HTML Presentation](https://uruc.github.io/Data-Science/Data%20Science-Cybersecurity/DSCC.html)
-- [Source Code (QMD)](https://github.com/uruc/Data-Science/blob/main/Data%20Science-Cybersecurity/DSCC.qmd)
 
-### [Referee Impartiality](https://github.com/uruc/Data-Science/tree/main/Referee%20Impartiality)
+### [Bad Passwords: A Data Science Presentation](https://github.com/uruc/Data-Science-Projects/tree/main/Bad%20Passwords)
 
-- [HTML Presentation](https://uruc.github.io/Data-Science/Referee%20Impartiality/2308f-454-GradPres-3-ixt87-present.html)
-- [PDF Presentation](https://github.com/uruc/Data-Science/blob/main/Referee%20Impartiality/2308f-454-GradPres-3-ixt87-present.pdf)
-- [Source Code (QMD)](https://github.com/uruc/Data-Science/blob/main/Referee%20Impartiality/2308f-454-GradPres-3-ixt87-present.qmd)
+- [HTML Presentation](https://uruc.github.io/Data-Science-Projects/Bad%20Passwords/ixt87.html#/title-slide)
+- [Source Code (QMD)](https://github.com/uruc/Data-Science-Projects/blob/main/Bad%20Passwords/ixt87.qmd)
 
-### [Water Levels](https://github.com/uruc/Data-Science/tree/main/Water%20Levels)
+### [Referee Impartiality](https://github.com/uruc/Data-Science-Projects/tree/main/Referee%20Impartiality)
 
-- [PDF Presentation](https://uruc.github.io/Data-Science/Water%20Levels/Proportions-ixt87.pdf)
-- [Source Code (RMD)](https://github.com/uruc/Data-Science/blob/main/Water%20Levels/Proportions-ixt87.Rmd)
+- [HTML Presentation](https://uruc.github.io/Data-Science-Projects/Referee%20Impartiality/2308f-454-GradPres-3-ixt87-present.html)
+- [PDF Presentation](https://github.com/uruc/Data-Science-Projects/blob/main/Referee%20Impartiality/2308f-454-GradPres-3-ixt87-present.pdf)
+- [Source Code (QMD)](https://github.com/uruc/Data-Science-Projects/blob/main/Referee%20Impartiality/2308f-454-GradPres-3-ixt87-present.qmd)
 
-### [Chennai Water Data](https://github.com/uruc/Data-Science/tree/main/Water%20Levels)
+### [Water Levels](https://github.com/uruc/Data-Science-Projects/tree/main/Water%20Levels)
 
-- [PDF Report](https://uruc.github.io/Data-Science/Water%20Levels/Chennai-Water-Data.pdf)
+- [PDF Presentation](https://uruc.github.io/Data-Science-Projects/Water%20Levels/Proportions-ixt87.pdf)
+- [Source Code (RMD)](https://github.com/uruc/Data-Science-Projects/blob/main/Water%20Levels/Proportions-ixt87.Rmd)
+
+### [Chennai Water Data](https://github.com/uruc/Data-Science-Projects/tree/main/Water%20Levels)
+
+- [PDF Report](https://uruc.github.io/Data-Science-Projects/Water%20Levels/Chennai-Water-Data.pdf)
 
 
 
