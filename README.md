@@ -1,6 +1,6 @@
 # Data Science Projects
 
-This repository contains a collection of data science projects. Each project includes the source code (.qmd or .Rmd), HTML, and PDF files for the presentation (where applicable).
+This repository contains a collection of data science projects. Each project includes the source code (.qmd or .rmd), HTML, and PDF files for the presentation (where applicable).
 
 ## How to View
 
@@ -15,9 +15,11 @@ Click on the links above to view the HTML presentations directly. The source cod
 
 ### [Animated Time Series](https://github.com/uruc/Data-Science-Projects/tree/main/Animated%20Time%20Series)
 - [HTML Presentation](https://uruc.github.io/Data-Science-Projects/Animated%20Time%20Series/Multiple-Approaches.html)
+- [Source Code (RMD)](https://github.com/uruc/Data-Science-Projects/blob/main/Animated%20Time%20Series/Multiple-Approaches.Rmd)
 
 ### [Tidy-Tuesday Geospatial](https://github.com/uruc/Data-Science-Projects/tree/main/Tidy-Tuesday%20Geospatial)
 - [HTML Presentation](https://uruc.github.io/Data-Science-Projects/Tidy-Tuesday%20Geospatial/Tidy-Tuesday-Geo.html)
+- [Source Code (RMD)](https://github.com/uruc/Data-Science-Projects/blob/main/Tidy-Tuesday%20Geospatial/Tidy-Tuesday-Geo.Rmd)
 
 ### [Bad Passwords: A Data Science Presentation](https://github.com/uruc/Data-Science-Projects/tree/main/Bad%20Passwords)
 
