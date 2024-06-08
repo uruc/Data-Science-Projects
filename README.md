@@ -16,6 +16,8 @@ Click on the links above to view the HTML presentations directly. The source cod
 ### [Animated Time Series](https://github.com/uruc/Data-Science-Projects/tree/main/Animated%20Time%20Series)
 - [HTML Presentation](https://uruc.github.io/Data-Science-Projects/Animated%20Time%20Series/Multiple-Approaches.html)
 
+### [Tidy-Tuesday Geospatial](https://github.com/uruc/Data-Science-Projects/tree/main/Tidy-Tuesday%20Geospatial)
+- [HTML Presentation](https://uruc.github.io/Data-Science-Projects/Tidy-Tuesday%20Geospatial/Tidy-Tuesday-Geo.html)
 
 ### [Bad Passwords: A Data Science Presentation](https://github.com/uruc/Data-Science-Projects/tree/main/Bad%20Passwords)
 
