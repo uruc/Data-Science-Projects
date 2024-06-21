@@ -1,5 +1,7 @@
 # Data Science Projects
 
+**[Uruc Tarim](https://github.com/uruc)**
+
 This repository contains a collection of data science projects. Each project includes the source code (.qmd or .rmd), HTML, and PDF files for the presentation (where applicable).
 
 ## How to View
