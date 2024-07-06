@@ -10,6 +10,14 @@ Click on the links above to view the HTML presentations directly. The source cod
 
 ## Projects
 
+### [Electron Diffraction Pattern Analysis](https://github.com/uruc/Electron-Diffraction-Pattern-Analysis)
+- This repository contains a comprehensive project aimed at improving the analysis of electron diffraction patterns through advanced image processing techniques.
+
+### [Water Levels](https://github.com/uruc/Data-Science-Projects/tree/main/Water%20Levels)
+
+- [PDF Presentation](https://uruc.github.io/Data-Science-Projects/Water%20Levels/Proportions-ixt87.pdf)
+- [Source Code (RMD)](https://github.com/uruc/Data-Science-Projects/blob/main/Water%20Levels/Proportions-ixt87.Rmd)
+
 ### [Data Science in Cybersecurity](https://github.com/uruc/Data-Science-Projects/tree/main/Data%20Science-Cybersecurity)
 
 - [HTML Presentation](https://uruc.github.io/Data-Science-Projects/Data%20Science-Cybersecurity/DSCC.html)
@@ -34,10 +42,7 @@ Click on the links above to view the HTML presentations directly. The source cod
 - [PDF Presentation](https://github.com/uruc/Data-Science-Projects/blob/main/Referee%20Impartiality/2308f-454-GradPres-3-ixt87-present.pdf)
 - [Source Code (QMD)](https://github.com/uruc/Data-Science-Projects/blob/main/Referee%20Impartiality/2308f-454-GradPres-3-ixt87-present.qmd)
 
-### [Water Levels](https://github.com/uruc/Data-Science-Projects/tree/main/Water%20Levels)
 
-- [PDF Presentation](https://uruc.github.io/Data-Science-Projects/Water%20Levels/Proportions-ixt87.pdf)
-- [Source Code (RMD)](https://github.com/uruc/Data-Science-Projects/blob/main/Water%20Levels/Proportions-ixt87.Rmd)
 
 ### [Chennai Water Data](https://github.com/uruc/Data-Science-Projects/tree/main/Water%20Levels)
 
